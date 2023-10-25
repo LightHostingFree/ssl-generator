@@ -1,0 +1,6 @@
+{
+    "require": {
+        "afosto/yaac": "^1.5",
+        "cloudflare/sdk": "^1.3"
+    }
+}
